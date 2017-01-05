@@ -1,4 +1,4 @@
-.idea
+.idea/*
 node_modules
 .idea/modules.xml
 .idea/node-express-mongoose-gulp-skeleton.iml

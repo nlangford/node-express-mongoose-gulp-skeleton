@@ -1,0 +1,26 @@
+{
+  "name": "node-express-mongoose-gulp-skeleton",
+  "description": "A skeleton",
+  "main": "server.js",
+  "authors": [
+    "Neil Langford"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "express",
+    "mongoose",
+    "skeleton"
+  ],
+  "homepage": "https://github.com/nlangford/node-express-mongoose-gulp-skeleton",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
