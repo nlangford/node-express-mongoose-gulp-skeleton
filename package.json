@@ -1,0 +1,29 @@
+{
+  "name": "node-express-mongoose-gulp-skeleton",
+  "version": "1.0.0",
+  "description": "A skeleton",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlangford/node-express-mongoose-gulp-skeleton.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose",
+    "skeleton"
+  ],
+  "author": "Neil Langford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlangford/node-express-mongoose-gulp-skeleton/issues"
+  },
+  "homepage": "https://github.com/nlangford/node-express-mongoose-gulp-skeleton#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
